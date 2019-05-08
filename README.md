@@ -4,7 +4,7 @@ A database engine with common features of Btree, WAL, MVCC in Java language
 ##Implementation plan
 
 
-1. architecture desgin, documentation
+1. architecture desgin, documentation, testcases
 2. implement Btree, ServiceManager
 3. implement WAL feature
 4. implement MVCC feature (refactor code, Btree and Service Manager)
