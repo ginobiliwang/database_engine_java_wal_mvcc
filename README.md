@@ -1,5 +1,5 @@
 #database_engine_java_wal_mvcc
-A database engine with common feature of Btree, WAL, MVCC in Java language
+A database engine with common features of Btree, WAL, MVCC in Java language
 
 ##Implementation plan
 
